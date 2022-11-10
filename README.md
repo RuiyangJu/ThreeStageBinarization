@@ -1,15 +1,15 @@
 ## [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/)
-### Stage-1 Figure
+### Stage-1 Flowchart
 <p align="center">
   <img src="Figure/figure_stage_1.jpg" width="480" title="Stage-1">
 </p>
 
-### Stage-2 Figure
+### Stage-2 Flowchart
 <p align="center">
   <img src="Figure/figure_stage_2.jpg" width="480" title="Stage-2">
 </p>
 
-### Stage-3 Figure
+### Stage-3 Flowchart
 <p align="center">
   <img src="Figure/figure_stage_3.jpg" width="480" title="Stage-3">
 </p>
