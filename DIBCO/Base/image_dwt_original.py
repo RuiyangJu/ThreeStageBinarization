@@ -50,7 +50,7 @@ def image_split_3_colors(input_image_dir,input_split_3_colors):
         rename_image = cv2.imread(os.path.join(input_image_dir,imagepth))
         RED_COLOR_img, GREEN_COLOR_img, BLUE_COLOR_img = split_RGBThreeChannel(rename_image,i)
         cv2.imwrite('%s%s_red.%s'%(input_split_3_colors,i,image_filename_Extension),RED_COLOR_img)
-        cv2.imwrite('%s%s_greeen.%s'%(input_split_3_colors,i,image_filename_Extension),GREEN_COLOR_img)
+        cv2.imwrite('%s%s_green.%s'%(input_split_3_colors,i,image_filename_Extension),GREEN_COLOR_img)
         cv2.imwrite('%s%s_blue.%s'%(input_split_3_colors,i,image_filename_Extension),BLUE_COLOR_img)
         i += 1
 
