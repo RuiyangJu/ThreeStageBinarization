@@ -27,9 +27,13 @@ The efficient segmentation of foreground text information from the background in
 ```
     pip install segmentation-models-pytorch
 ```
-* Install [Install pytesseract](https://github.com/madmaze/pytesseract)
+* Install [pytesseract](https://github.com/madmaze/pytesseract)
 ```
     pip install pytesseract
+```
+* Download [tesseract data](https://github.com/tesseract-ocr/tessdata_best)
+```
+    conda env create -f environment.yml
 ```
 
 ## Dataset
