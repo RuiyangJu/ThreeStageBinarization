@@ -76,7 +76,5 @@ __5e-4__ for [75,149] epochs <br>
 __2.5e-4__ for [150,200) epochs <br>
 
 
-## References
-* [torchstat](https://github.com/Swall0w/torchstat)
-* [pytorch-cifar10](https://github.com/soapisnotfat/pytorch-cifar10)
-* [HarDNet](https://github.com/PingoLH/Pytorch-HarDNet)
+### References
+[DocumentBinarization](https://github.com/opensuh/DocumentBinarization)
