@@ -57,19 +57,11 @@ The efficient segmentation of foreground text information from the background in
 <img src="select_image/(original_image)2_split_3_colors/0_blue.bmp" width="240" title="blue">
 <img src="select_image/(original_image)2_split_3_colors/0_green.bmp" width="240" title="green">
 <img src="select_image/(original_image)2_split_3_colors/0_red.bmp" width="240" title="red">
+
 ```
     python3 image_dwt_original.py
     python3 image_dwt_256.py
 ```
-
-
-
-optional arguments:
-
-    --lr                default=1e-3    learning rate
-    --epoch             default=200     number of epochs tp train for
-    --trainBatchSize    default=100     training batch size
-    --testBatchSize     default=100     test batch size
 
 
 ## References
