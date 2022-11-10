@@ -23,7 +23,7 @@ The efficient segmentation of foreground text information from the background in
 * NVIDIA GPU + CUDA CuDNN
 
 ## Installation
-```bash
+```
 python3 main.py
 ```
 
