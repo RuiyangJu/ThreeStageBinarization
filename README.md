@@ -91,5 +91,16 @@ The efficient segmentation of foreground text information from the background in
     python3 eval_stage3_all.py
 ```
 
+## Comparison Experiment of Stage-1 on the H-DIBCO 2014
+| Method | Input | GT | FM↑ | p-FM↑ | PSNR↑ | DRD↓ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 0.35 | 14.75 | 2.28 | 4.55 | 83.26 | 10.18 |
+| 2 | 0.36 | 14.25 | 2.69 | 5.32 | 211.42 | 0.78 |
+| **3** | 0.38 | 16.12 | 2.34 | 4.63 | 230.84 | 3.32 |
+| 4 | 0.42 | 13.66  | 3.46 | 6.90 | 109.68  | 14.31 |
+| 5 | 0.44 | 14.66 | 4.26 | 8.51 | 49.28 | 17.57 |
+| 6 | 0.46 | 14.06 | 2.42 | 4.75 | 384.78 | 2.37 |
+| 7 | 0.46 | 13.31 | 4.07 | 8.12 | 132.34 | 16.19 | 
+
 ## References
 [DocumentBinarization](https://github.com/opensuh/DocumentBinarization)
