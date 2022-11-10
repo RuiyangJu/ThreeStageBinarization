@@ -19,7 +19,7 @@ The efficient segmentation of foreground text information from the background in
 
 ## Requirements
 * Linux (Ubuntu)
-* Python >= 3.6
+* Python >= 3.6 (Pytorch)
 * NVIDIA GPU + CUDA CuDNN
 
 ## Installation
