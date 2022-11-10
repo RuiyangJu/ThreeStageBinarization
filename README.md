@@ -1,6 +1,8 @@
 # [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/)
 <p align="center">
-  <img src="Img/threshnet.jpg" width="640" title="threshnet">
+  <img src="Figure/figure_stage_1.pdf" width="640" title="Stage-1">
+  <img src="Figure/figure_stage_2.pdf" width="640" title="Stage-2">
+  <img src="Figure/figure_stage_3.pdf" width="640" title="Stage-3">
 </p>
 
 ## Citation
