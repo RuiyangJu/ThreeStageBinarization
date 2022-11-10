@@ -51,6 +51,7 @@ The efficient segmentation of foreground text information from the background in
 * Patch per datasets
 
     Example: 512×512
+    
 <p align="center">
 <img src="select_image/(original_image)2_split_3_colors/0_blue.bmp" width="240" title="blue">
 <img src="select_image/(original_image)2_split_3_colors/0_green.bmp" width="240" title="green">
@@ -63,6 +64,7 @@ The efficient segmentation of foreground text information from the background in
 * Discrete Wavelet Transform
 
     Example: Blue, Green, Red
+    
 <p align="center">
 <img src="select_image/(original_image)2_split_3_colors/0_blue.bmp" width="240" title="blue">
 <img src="select_image/(original_image)2_split_3_colors/0_green.bmp" width="240" title="green">
