@@ -4,8 +4,8 @@
 </p>
 <p align="center">
   <img src="Figure/figure_stage_2.jpg" width="480" title="Stage-2">
-<p align="center">
 </p>
+<p align="center">
   <img src="Figure/figure_stage_3.jpg" width="480" title="Stage-3">
 </p>
 
