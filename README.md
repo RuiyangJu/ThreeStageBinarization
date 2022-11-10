@@ -43,8 +43,10 @@ The efficient segmentation of foreground text information from the background in
   [(Download Link)](https://www.dropbox.com/s/54ye0mtdcvqas4o/Testset.zip?dl=0)
 
 ## Usage
-```bash
-python3 main.py
+* Patch per datasets
+```
+    python3 image_to_256.py
+    python3 image_to_512.py
 ```
 optional arguments:
 
