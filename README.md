@@ -54,15 +54,14 @@ The efficient segmentation of foreground text information from the background in
     python3 image_to_512.py
 ```
 * Discrete Wavelet Transform
+<img src="select_image/(original_image)2_split_3_colors/0_blue.bmp" width="240" title="blue">
+<img src="select_image/(original_image)2_split_3_colors/0_green.bmp" width="240" title="green">
+<img src="select_image/(original_image)2_split_3_colors/0_red.bmp" width="240" title="red">
 ```
     python3 image_dwt_original.py
     python3 image_dwt_256.py
 ```
-    Example:
 
-      <img src="select_image/(original_image)2_split_3_colors/0_blue.bmp" width="240" title="blue">
-      <img src="select_image/(original_image)2_split_3_colors/0_green.bmp" width="240" title="green">
-      <img src="select_image/(original_image)2_split_3_colors/0_red.bmp" width="240" title="red">
 
 
 optional arguments:
