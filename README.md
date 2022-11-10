@@ -1,4 +1,5 @@
 ## [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://arxiv.org/)
+###### Stage-1 Figure
 <p align="center">
   <img src="Figure/figure_stage_1.jpg" width="480" title="Stage-1">
 </p>
@@ -9,15 +10,6 @@
   <img src="Figure/figure_stage_3.jpg" width="480" title="Stage-3">
 </p>
 
-## Citation
-If you find ThreshNet useful in your research, please consider citing:
-
-	@article{ThreshNet 2022,
-	 title={ThreshNet: An Efficient DenseNet using Threshold Mechanism to Reduce Connections},
-	 author={Rui-Yang Ju, Ting-Yu Lin, Jia-Hao Jian, Jen-Shiun Chiang, Wei-Bin Yang},
-	 journal={IEEE Access},
-	 year={2022}
-	 }
 	 
 ## Contents
 1. [Introduction](#introduction)
