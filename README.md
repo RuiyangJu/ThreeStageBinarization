@@ -64,7 +64,18 @@ The efficient segmentation of foreground text information from the background in
     python3 image_dwt_original.py
     python3 image_dwt_256.py
 ```
+* Train the model
+```
+    python3 train_stage2.py
+    python3 predict_for_stage3.py
+    python3 train_stage3.py
+    python3 train_stage3_resize.py
+```
 
+* Evaluation the model
+```
+    python3 eval_stage3_all.py
+```
 
 ## References
 [DocumentBinarization](https://github.com/opensuh/DocumentBinarization)
