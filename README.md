@@ -22,6 +22,12 @@ The efficient segmentation of foreground text information from the background in
 * Python >= 3.6
 * NVIDIA GPU + CUDA CuDNN
 
+## Installation
+```bash
+python3 main.py
+```
+
+
 ## Usage
 ```bash
 python3 main.py
