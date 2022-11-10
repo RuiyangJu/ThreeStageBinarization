@@ -23,8 +23,9 @@ The efficient segmentation of foreground text information from the background in
 * NVIDIA GPU + CUDA CuDNN
 
 ## Installation
+Install [segmentation_models] (https://github.com/qubvel/segmentation_models.pytorch)
 ```
-python3 main.py
+pip install segmentation-models-pytorch
 ```
 
 
