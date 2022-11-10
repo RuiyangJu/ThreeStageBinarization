@@ -92,7 +92,7 @@ The efficient segmentation of foreground text information from the background in
 ```
 
 ## Comparison Experiment of Stage-1 on the H-DIBCO 2014
-| Method | Input | GT | FM↑ | p-FM↑ | PSNR↑ | DRD↓ |
+| Option | Input | GT | FM↑ | p-FM↑ | PSNR↑ | DRD↓ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | \ | \ | 96.50 | 97.50 | 22.08 | 1.01 |
 | 2 | \ | DWT(LL) | 96.52 | 97.70 | 22.15 | 0.99 |
@@ -101,10 +101,11 @@ The efficient segmentation of foreground text information from the background in
 | 5 | DWT(LL)+Norm | \ | 96.29 | 97.48 | 22.05 | 1.16 |
 | 6 | DWT(LL) | DWT(LL) | 96.60 | 97.60 | 22.27 | 0.97 |
 | 7 | DWT(LL)+Norm | DWT(LL)+Norm | 96.77 | 97.89 | 22.52 | 0.91 | 
-* Method 1 is `configuration.py`
-* Method 1 
-* Method 1 
-* Method 1 
+
+* Option 2 is `method1_NA_LL.py`
+* Option 3 is `method2_NA_LLandNorm.py`
+* Option 6 is `method3_LL_LL.py`
+* Option 7 is `method4_LLandNorm_LLandNorm`
 
 ## References
 [DocumentBinarization](https://github.com/opensuh/DocumentBinarization)
