@@ -94,13 +94,13 @@ The efficient segmentation of foreground text information from the background in
 ## Comparison Experiment of Stage-1 on the H-DIBCO 2014
 | Method | Input | GT | FM↑ | p-FM↑ | PSNR↑ | DRD↓ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | \ | \ | 2.28 | 4.55 | 83.26 | 10.18 |
-| 2 | \ | DWT(LL) | 2.69 | 5.32 | 211.42 | 0.78 |
-| **3** | \ | DWT(LL)+Norm | 2.34 | 4.63 | 230.84 | 3.32 |
-| 4 | DWT(LL) | \  | 3.46 | 6.90 | 109.68  | 14.31 |
-| 5 | DWT(LL)+Norm | \ | 4.26 | 8.51 | 49.28 | 17.57 |
-| 6 | DWT(LL) | DWT(LL) | 2.42 | 4.75 | 384.78 | 2.37 |
-| 7 | DWT(LL)+Norm | DWT(LL)+Norm | 4.07 | 8.12 | 132.34 | 16.19 | 
+| 1 | \ | \ | 96.50 | 97.50 | 22.08 | 1.01 |
+| 2 | \ | DWT(LL) | 96.52 | 97.70 | 22.15 | 0.99 |
+| **3** | \ | DWT(LL)+Norm | 96.88 | 98.03 | 22.68 | 0.89 |
+| 4 | DWT(LL) | \  | 95.94 | 96.91 | 21.31 | 1.19 |
+| 5 | DWT(LL)+Norm | \ | 96.29 | 97.48 | 22.05 | 1.16 |
+| 6 | DWT(LL) | DWT(LL) | 96.60 | 97.60 | 22.27 | 0.97 |
+| 7 | DWT(LL)+Norm | DWT(LL)+Norm | 96.77 | 97.89 | 22.52 | 0.91 | 
 
 ## References
 [DocumentBinarization](https://github.com/opensuh/DocumentBinarization)
