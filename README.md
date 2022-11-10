@@ -3,10 +3,12 @@
 <p align="center">
   <img src="Figure/figure_stage_1.jpg" width="480" title="Stage-1">
 </p>
+
 ### Stage-2 Figure
 <p align="center">
   <img src="Figure/figure_stage_2.jpg" width="480" title="Stage-2">
 </p>
+
 ### Stage-3 Figure
 <p align="center">
   <img src="Figure/figure_stage_3.jpg" width="480" title="Stage-3">
