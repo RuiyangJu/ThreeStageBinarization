@@ -54,6 +54,7 @@ The efficient segmentation of foreground text information from the background in
     python3 image_to_512.py
 ```
 * Discrete Wavelet Transform
+
 Example: Blue, Green, Red
 <p align="center">
 <img src="select_image/(original_image)2_split_3_colors/0_blue.bmp" width="240" title="blue">
