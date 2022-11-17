@@ -69,9 +69,9 @@ The efficient segmentation of foreground text information from the background in
 
     Example: Blue, Green, Red
 <p align="center">
-<img src="select_image/(original_image)3_DWT_4_image/1_blue.bmp" width="240" title="blue">
-<img src="select_image/(original_image)3_DWT_4_image/1_green.bmp" width="240" title="green">
-<img src="select_image/(original_image)3_DWT_4_image/1_red.bmp" width="240" title="red">
+<img src="img_dwt/blue.bmp" width="240" title="blue">
+<img src="img_dwt/green.bmp" width="240" title="green">
+<img src="img_dwt/red.bmp" width="240" title="red">
 </p>
 
 ```
