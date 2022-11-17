@@ -52,12 +52,12 @@ The efficient segmentation of foreground text information from the background in
 
     Example: 512×512
 <p align="center">
-<img src="image_patches/512X512/PHIBD_2012_4_h0.png" width="120" title="512_1">
-<img src="image_patches/512X512/PHIBD_2012_4_r0.png" width="120" title="512_2">
-<img src="image_patches/512X512/PHIBD_2012_4_r1.png" width="120" title="512_3">
-<img src="image_patches/512X512/PHIBD_2012_4_r2.png" width="120" title="512_4">
-<img src="image_patches/512X512/PHIBD_2012_4_r3.png" width="120" title="512_5">
-<img src="image_patches/512X512/PHIBD_2012_4_v0.png" width="120" title="512_6">
+<img src="img_512X512/PHIBD_2012_4_h0.png" width="120" title="512_1">
+<img src="img_512X512/PHIBD_2012_4_r0.png" width="120" title="512_2">
+<img src="img_512X512/PHIBD_2012_4_r1.png" width="120" title="512_3">
+<img src="img_512X512/PHIBD_2012_4_r2.png" width="120" title="512_4">
+<img src="img_512X512/PHIBD_2012_4_r3.png" width="120" title="512_5">
+<img src="img_512X512/PHIBD_2012_4_v0.png" width="120" title="512_6">
 </p>
 
 ```
